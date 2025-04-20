@@ -1,15 +1,61 @@
 # COMP4135_CW1_team5
-the download way for software and code
+# Educational Game – *Snow Song Sees Judge Wu Back to the Capital*
 
-System requirements:
-Operating system: Windows 10 or above
+Welcome!  
+This interactive educational game is themed around the classical Chinese poem **《白雪歌送武判官归京》**, designed to enhance learning through immersive snow scene interaction.
 
-Memory requirement: Minimum 4GB, 8GB or more is recommended
+---
 
-Graphics card requirements: A dedicated graphics card that supports DirectX 11 or a higher version
+##  1. Installation and Startup
 
-Hard disk space: At least 2GB
+###  System Requirements
+- **Operating System**: Windows 10 or later  
+- **Memory (RAM)**: Minimum 4GB (8GB or more recommended)  
+- **Graphics Card**: Dedicated GPU supporting **DirectX 11** or higher  
+- **Storage Space**: At least 2GB free disk space  
 
-Installation steps:
-Download the game installation package to your computer.Unzip the archive
-After the unzip is completed, double-click the exe file to start the game.
+###  Installation Steps
+1. Download all `.7z.001`, `.7z.002`, `.7z.003` files from the [GitHub Release](https://github.com/LeiLeiShen/COMP4135_CW1_team5/releases/tag/1.0)
+2. Use [7-Zip](https://www.7-zip.org/) to extract from the `.001` file  
+   *(Right-click `teamwork.7z.001` → 7-Zip → Extract Here)*  
+3. After extraction, double-click the `.exe` file to launch the game
+
+---
+
+##  2. Main Interface Navigation
+
+Upon launching the game, you’ll be greeted by the **Main Menu**, which includes:
+
+- **Scene Selection**:  
+  Click the “Start” button to enter the learning scene
+
+---
+
+##  3. Game Operation Instructions
+
+- Use **W / A / S / D** keys to move the character in first-person view  
+- Use **Mouse** to rotate the camera perspective  
+- Click on special interactive objects (like **snow flowers**, **stones**) to trigger **poem-related content and narration**
+
+---
+
+##  4. Frequently Asked Questions (FAQ)
+
+### Q1: The game runs slowly or lags
+- Ensure your device meets system requirements  
+- Close unnecessary background applications  
+
+### Q2: Can I save game progress?
+- Saving progress is **not supported** in this version  
+- The game duration is short and designed to be completed in one session  
+
+### Q3: What if the game crashes unexpectedly?
+- Try restarting the game  
+- If the issue persists, please contact technical support (see contact info in your release package)
+
+---
+
+##  Support
+For any bugs, crashes, or technical help, please open an issue on the GitHub repository or contact the developer listed in the documentation.
+
+Enjoy your journey through snow and poetry!

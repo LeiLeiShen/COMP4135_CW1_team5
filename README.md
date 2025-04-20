@@ -1,5 +1,5 @@
 # COMP4135_CW1_team5
-# Educational Game – *Snow Song Sees Judge Wu Back to the Capital*
+# Educational Game – *The Song of White Snow, Sending Off Military Judge Wu Returning to the Capital*
 
 Welcome!  
 This interactive educational game is themed around the classical Chinese poem **《白雪歌送武判官归京》**, designed to enhance learning through immersive snow scene interaction.

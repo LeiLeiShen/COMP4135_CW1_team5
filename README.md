@@ -14,7 +14,7 @@ This interactive educational game is themed around the classical Chinese poem **
 - **Graphics Card**: Dedicated GPU supporting **DirectX 11** or higher  
 - **Storage Space**: At least 2GB free disk space  
 
-###  Installation Steps
+###  code download
 1. Download all `.7z.001`, `.7z.002`, `.7z.003` files from the [GitHub Release](https://github.com/LeiLeiShen/COMP4135_CW1_team5/releases/tag/1.0)
 2. Use [7-Zip](https://www.7-zip.org/) to extract from the `.001` file  
    *(Right-click `teamwork.7z.001` → 7-Zip → Extract Here)*  

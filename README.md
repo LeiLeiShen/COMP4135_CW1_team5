@@ -24,10 +24,7 @@ This interactive educational game is themed around the classical Chinese poem **
 
 ##  2. Main Interface Navigation
 
-Upon launching the game, you’ll be greeted by the **Main Menu**, which includes:
-
-- **Scene Selection**:  
-  Click the “Start” button to enter the learning scene
+Upon launching the game.Click the “Start” button to enter the learning scene
 
 ---
 

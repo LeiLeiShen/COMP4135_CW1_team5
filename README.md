@@ -23,6 +23,7 @@ This interactive educational game is themed around the classical Chinese poem **
 2. After decompressing the file, you can directly open 'My project (1).exe' in the folder 'game' to start the game
 ###  video download
 1. Download 'Team5_PoetrySceneGame_Video.mp4'from the [GitHub Release](https://github.com/LeiLeiShen/COMP4135_CW1_team5/releases/tag/1.0)
+Or you can directly open this website to watch the live demonstration: https://youtu.be/GsGOV-4FFUM
 ---
 
 ##  2. Main Interface Navigation

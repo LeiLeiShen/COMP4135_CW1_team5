@@ -18,7 +18,6 @@ This interactive educational game is themed around the classical Chinese poem **
 1. Download all `.7z.001`, `.7z.002`, `.7z.003` files from the [GitHub Release](https://github.com/LeiLeiShen/COMP4135_CW1_team5/releases/tag/1.0)
 2. Use [7-Zip](https://www.7-zip.org/) to extract from the `.001` file  
    *(Right-click `teamwork.7z.001` → 7-Zip → Extract Here)*  
-3. After extraction, double-click the `.exe` file to launch the game
 ###  game download
 1. Download 'game.zip'from the [GitHub Release](https://github.com/LeiLeiShen/COMP4135_CW1_team5/releases/tag/1.0)
 2. After decompressing the file, you can directly open 'My project (1).exe' in the folder 'game' to start the game
